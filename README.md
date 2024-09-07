@@ -10,10 +10,10 @@ Currently includes -
                          Logistic Regression. Metrics used -  Confusion Matrix, F1 score, accuracy. Best performer - BoW + Naive Bayes.
    
 3) Sentiment Analysis of Customer Reviews to Improve Business Insights - 
-  Tools: Python, NLTK, scikit-learn, SpaCy, Jupyter, VADER
-  Dataset: IMDb movie reviews (50k samples, balanced positive/negative)
+      Tools: Python, NLTK, scikit-learn, SpaCy, Jupyter, VADER
+      Dataset: IMDb movie reviews (50k samples, balanced positive/negative)
   
-  Performed comparative analysis between Lexicon-Based and Classic Machine Learning models.
-  Developed a Logistic Regression model, achieving 89% accuracy in classifying positive and negative sentiment on movie reviews.
-  Implemented Bag-Of-Words vectorization with Logistic Regression, Naïve Bayes and VADER for baseline comparisons. Achieved 88% accuracy with Naïve Bayes Classifier.
-  Identified key sentiment drivers (common phrases in positive/negative reviews) and visualized sentiment distribution trends over time using word clouds.
+      Performed comparative analysis between Lexicon-Based and Classic Machine Learning models.
+      Developed a Logistic Regression model, achieving 89% accuracy in classifying positive and negative sentiment on movie reviews.
+      Implemented Bag-Of-Words vectorization with Logistic Regression, Naïve Bayes and VADER for baseline comparisons. Achieved 88% accuracy with Naïve Bayes Classifier.
+      Identified key sentiment drivers (common phrases in positive/negative reviews) and visualized sentiment distribution trends over time using word clouds.
